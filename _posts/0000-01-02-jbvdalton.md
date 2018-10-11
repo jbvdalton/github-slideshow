@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Power to the people, stick it to the man. 
 Use the left arrow to go back!
